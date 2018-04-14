@@ -1,0 +1,11 @@
+{
+  "name": "bem",
+  "version": "1.0.0",
+  "description": "My first GitBook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dzmitry Vashkevich",
+  "license": "ISC"
+}

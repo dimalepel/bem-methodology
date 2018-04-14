@@ -1,0 +1,10 @@
+{
+  "title": "БЭМ-методология",
+  "author": "Вашкевич Дмитрий",
+  "language": "ru",
+  "pluginsConfig": {
+    "theme-default": {
+      "showLevel": false
+    }
+  }
+}
